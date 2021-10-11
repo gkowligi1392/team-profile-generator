@@ -8,29 +8,35 @@ Uses console prompts to add a manager, engineers, and interns, and enter data, w
 
 - [Installation](#installation)
 - [How to Use](#How-to-Use)
-- [Credits](#credits)
+- [Contributions](#contributions)
 - [Questions](#questions)
 - [License](#license)
 
 ## Installation
 
-Just download or clone the repository and run in your terminal npm install for restore the inquirer package.
+-Download or clone the repository and run "npm install inquirer" and "npm install uuid"
+-Run "node index.js"
 
 ## How to Use
 
-open your terminal in the root of the application and run the command node index.js. Add the information for each member of the team, and when you finished please seleec the option "Finish building my team". The system will be generate a folder inside this project called dist, inside the dist folder you will be find the index.html and the style.css for the team webpage, open the index.html for review or copy and paate in your hosting service.
+- Open terminal in root folder 
+- Run "node index.js" and follow prompts to enter Manager's data
+- Select 'Engineer' or 'Intern' to add employees
+- When finished, select 'Finish adding team members'
+- A new folder will be created, called 'dist'
+- Open 'index.html' in the 'dist' folder to see generated webpage
 
-## Contributing
+## Contributions
 
-You can participate in this project, submiting bugs, and feature request. Also you can help testing this project using jest.
+You can participate in this project by finding bugs and requesting new features. Also you can help with testing for this project using jest.
 
 ## Questions
 
-for any questions feel free to contact me to joseduardo15062005@gmail.com
+For any questions, contact me at gkowligi@gmail.com
 
-checkout the [GitHub profile](https://github.com/joseduardo15062005)
+[GitHub profile](https://github.com/gkowligi1392)
 
 ## License
 
 Code released under the MIT License [License](https://choosealicense.com/licenses/mit/).
-for additional questions please feel free to contact us via email at joseduardo15062005@gmail.com
+For additional questions, please feel free to contact us via email at gkowligi@gmail.com
