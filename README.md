@@ -8,7 +8,7 @@ Uses console prompts to add a manager, engineers, and interns, and enter data, w
 https://drive.google.com/file/d/1GGZXJ04a8zwOatO8aBn032Z-9dZ_cgSj/view?usp=sharing
 
 ## Sample HTML
-./sample-html/index.html
+[Click here to view sample HTML file](./sample-html/index.html)
 
 ## Table of Contents
 
