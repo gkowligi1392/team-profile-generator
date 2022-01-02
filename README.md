@@ -4,6 +4,9 @@
 ## Description
 Uses console prompts to add a manager, engineers, and interns, and enter data, which is then used to create and populate employee cards an HTML page.
 
+## Walkthrough Video
+https://drive.google.com/file/d/1GGZXJ04a8zwOatO8aBn032Z-9dZ_cgSj/view?usp=sharing
+
 ## Table of Contents
 
 - [Installation](#installation)
