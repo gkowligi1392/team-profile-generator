@@ -7,6 +7,9 @@ Uses console prompts to add a manager, engineers, and interns, and enter data, w
 ## Walkthrough Video
 https://drive.google.com/file/d/1GGZXJ04a8zwOatO8aBn032Z-9dZ_cgSj/view?usp=sharing
 
+## Sample HTML
+./sample-html/index.html
+
 ## Table of Contents
 
 - [Installation](#installation)
